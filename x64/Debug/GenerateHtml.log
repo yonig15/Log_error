@@ -1,0 +1,8 @@
+﻿  GenerateHtml.c
+C:\level-up\c lesson-level up\source\repos\22.9.2022\GenerateHtml\GenerateHtml\GenerateHtml.c(41,15): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\level-up\c lesson-level up\source\repos\22.9.2022\GenerateHtml\GenerateHtml\GenerateHtml.c(62,27): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\level-up\c lesson-level up\source\repos\22.9.2022\GenerateHtml\GenerateHtml\GenerateHtml.c(88,21): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\level-up\c lesson-level up\source\repos\22.9.2022\GenerateHtml\GenerateHtml\GenerateHtml.c(94,44): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\level-up\c lesson-level up\source\repos\22.9.2022\GenerateHtml\GenerateHtml\GenerateHtml.c(84,18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\level-up\c lesson-level up\source\repos\22.9.2022\GenerateHtml\GenerateHtml\GenerateHtml.c(24): warning C4715: 'SaveIntoFile': not all control paths return a value
+  GenerateHtml.vcxproj -> C:\level-up\c lesson-level up\source\repos\22.9.2022\GenerateHtml\x64\Debug\GenerateHtml.exe
